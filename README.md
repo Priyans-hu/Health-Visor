@@ -9,3 +9,7 @@ Our platform includes an app that tracks users' live locations and provides real
 In the realm of breast cancer detection, we have trained a machine learning model. This model takes numerical inputs from users in tabular format and provides them with accurate results.
 
 With Health Visor, we aim to bridge the gap between individuals' busy lives and their health needs. By offering accessible and comprehensive health monitoring solutions, we strive to improve early detection, timely intervention, and ultimately, enhance overall well-being.
+
+#note :
+The Brain Tumour model was quite large, so it can't be uploaded on github.
+(Max file size supported is 25MB)
